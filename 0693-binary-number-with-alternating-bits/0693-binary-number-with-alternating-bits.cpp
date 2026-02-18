@@ -15,7 +15,7 @@ public:
         // return true;
 
         //Solution 2: Usin xor bit manipulation
-        unsigned int x = n ^ (n >> 1);
+        long x = n ^ (n >> 1);
         return (x & (x+1)) == 0;
     }
 };
