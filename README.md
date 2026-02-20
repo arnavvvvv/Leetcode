@@ -22,8 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arnavvvvv/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0696-count-binary-substrings](https://github.com/arnavvvvv/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/arnavvvvv/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+## String
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/arnavvvvv/Leetcode/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
