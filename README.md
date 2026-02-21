@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/arnavvvvv/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/arnavvvvv/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/arnavvvvv/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/arnavvvvv/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/arnavvvvv/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/arnavvvvv/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/arnavvvvv/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arnavvvvv/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/arnavvvvv/Leetcode/tree/master/0143-reorder-list) |
 | [0696-count-binary-substrings](https://github.com/arnavvvvv/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Bit Manipulation
 |  |
@@ -31,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/arnavvvvv/Leetcode/tree/master/0696-count-binary-substrings) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/arnavvvvv/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
