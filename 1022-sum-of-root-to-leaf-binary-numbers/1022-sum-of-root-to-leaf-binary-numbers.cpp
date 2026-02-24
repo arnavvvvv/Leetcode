@@ -16,18 +16,15 @@ private:
         if(root) {
             if(root->left == NULL && root->right == NULL) {
                 s += to_string(root->val);
-                cout<<s<<endl;
                 int idx = 1;
                 int value = 0;
                 for(int i = s.size()-1; i>=0; --i) {
                     if(s[i] == '1') {
                         value += idx;
-                        cout<<"idx "<<idx<<endl;;
                     }
                         
                     idx *= 2;
                 }
-                cout<<value<<endl;
                 sum += value;
                 return;
             }
