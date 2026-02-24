@@ -22,7 +22,6 @@ private:
                     if(s[i] == '1') {
                         value += idx;
                     }
-                   
                 }
                 sum += value;
                 return;
