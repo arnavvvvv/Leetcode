@@ -18,12 +18,11 @@ private:
                 s += to_string(root->val);
                 int idx = 1;
                 int value = 0;
-                for(int i = s.size()-1; i>=0; --i) {
+                for(int i = s.size()-1; i>=0; --i, idx *= 2) {
                     if(s[i] == '1') {
                         value += idx;
                     }
-                        
-                    idx *= 2;
+                   
                 }
                 sum += value;
                 return;
