@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arnavvvvv/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/arnavvvvv/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/arnavvvvv/Leetcode/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/arnavvvvv/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/arnavvvvv/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/arnavvvvv/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/arnavvvvv/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/arnavvvvv/Leetcode/tree/master/0868-binary-gap) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arnavvvvv/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arnavvvvv/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Array
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/arnavvvvv/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/arnavvvvv/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
