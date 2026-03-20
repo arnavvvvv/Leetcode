@@ -20,7 +20,7 @@ private:
     Node* tail;
 public:
     LRUCache(int capacity) {
-        cout<<"Constructor";
+        // cout<<"Constructor";
         size = capacity;
         head = NULL;
         tail = NULL;
@@ -55,7 +55,7 @@ public:
     }
     
     void put(int key, int value) {
-        cout<<"Inside put";
+        // cout<<"Inside put";
         int sz= m.size();
         if(m.find(key) != m.end()) {
             Node* t = m[key];
@@ -96,7 +96,7 @@ public:
             tail = t;
             m[key] = tail;
         }
-        cout<<m[key]->val<<endl;
+        // cout<<m[key]->val<<endl;
     }
 };
 
