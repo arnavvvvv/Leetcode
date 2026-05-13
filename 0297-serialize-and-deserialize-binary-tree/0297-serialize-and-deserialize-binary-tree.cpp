@@ -19,7 +19,7 @@ public:
         string s = to_string(root->val) + ",";
         s += serialize(root->left);
         s += serialize(root->right);
-        cout<<s<<endl;
+        // cout<<s<<endl;
         return s;
     }
 
