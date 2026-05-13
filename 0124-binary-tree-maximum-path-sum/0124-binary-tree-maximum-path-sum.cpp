@@ -22,7 +22,7 @@ private:
         if(root->val + left + right > res) {
             res = root->val + left + right;
         }
-        cout<<res<<endl;
+        // cout<<res<<endl;
         return max(left, right) + root->val;
     }
 public:
