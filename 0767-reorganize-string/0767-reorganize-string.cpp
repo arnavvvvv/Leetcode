@@ -16,7 +16,7 @@ public:
             ++m[x];
         priority_queue<ci, vector<ci>, Comparator> max_heap(begin(m), end(m));
         while(n && max_heap.size()) {
-            cout<<max_heap.top().first<<" "<<max_heap.top().second<<endl;
+            //cout<<max_heap.top().first<<" "<<max_heap.top().second<<endl;
             char x = max_heap.top().first;
             max_heap.pop();
             ans += x;
