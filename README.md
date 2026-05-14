@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/arnavvvvv/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/arnavvvvv/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/arnavvvvv/Leetcode/tree/master/0146-lru-cache) |
+| [0621-task-scheduler](https://github.com/arnavvvvv/Leetcode/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arnavvvvv/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavvvvv/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/arnavvvvv/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0621-task-scheduler](https://github.com/arnavvvvv/Leetcode/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/arnavvvvv/Leetcode/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavvvvv/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/arnavvvvv/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/arnavvvvv/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/arnavvvvv/Leetcode/tree/master/1046-last-stone-weight) |
 ## Data Stream
@@ -169,8 +172,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavvvvv/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/arnavvvvv/Leetcode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavvvvv/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/arnavvvvv/Leetcode/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/arnavvvvv/Leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
