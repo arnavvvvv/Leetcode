@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/arnavvvvv/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/arnavvvvv/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/arnavvvvv/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/arnavvvvv/Leetcode/tree/master/0868-binary-gap) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/arnavvvvv/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arnavvvvv/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavvvvv/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/arnavvvvv/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/arnavvvvv/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/arnavvvvv/Leetcode/tree/master/0767-reorganize-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/arnavvvvv/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
