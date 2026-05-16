@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/arnavvvvv/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/arnavvvvv/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arnavvvvv/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavvvvv/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -196,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/arnavvvvv/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/arnavvvvv/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
