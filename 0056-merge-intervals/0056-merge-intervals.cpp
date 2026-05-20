@@ -8,7 +8,7 @@ bool smaller_interval(vector<int>& lhs, vector<int>& rhs) {
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(begin(intervals), end(intervals), smaller_interval);
+        sort(begin(intervals), end(intervals));
         // for(auto x: intervals)
         //     cout<<x[0]<<","<<x[1]<<"   ";
         vector<vector<int>> ans;
