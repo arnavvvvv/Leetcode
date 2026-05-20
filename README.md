@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/arnavvvvv/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/arnavvvvv/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/arnavvvvv/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/arnavvvvv/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/arnavvvvv/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arnavvvvv/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavvvvv/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
