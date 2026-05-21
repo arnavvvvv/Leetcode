@@ -114,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arnavvvvv/Leetcode/tree/master/0054-spiral-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arnavvvvv/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Array
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/arnavvvvv/Leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/arnavvvvv/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/arnavvvvv/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/arnavvvvv/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/arnavvvvv/Leetcode/tree/master/0057-insert-interval) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arnavvvvv/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/arnavvvvv/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arnavvvvv/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
