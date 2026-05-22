@@ -10,7 +10,7 @@ public:
             prefix_sum.push_back(x + prefix_sum.back());
         }
         for(int& x: prefix_sum) {
-            cout<<x<<endl;
+            //cout<<x<<endl;
             if(m.find(x - k) != m.end())
                 count += m[x - k];
             if(x == k)
