@@ -9,12 +9,8 @@ public:
             int l = i + 1;
             int h = nums.size() - 1;
             while(l < h) {
-                if(l == i)
-                    ++l;
-                else if(h == i)
-                    --h;
-                
-                else if(nums[l] + nums[h] + nums[i] < 0) {
+              
+                if(nums[l] + nums[h] + nums[i] < 0) {
                    ++l;
                 }
                 else if(nums[l] + nums[h] + nums[i] > 0) {
