@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/arnavvvvv/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arnavvvvv/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/arnavvvvv/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/arnavvvvv/Leetcode/tree/master/0143-reorder-list) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/arnavvvvv/Leetcode/tree/master/0015-3sum) |
 | [0051-n-queens](https://github.com/arnavvvvv/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/arnavvvvv/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/arnavvvvv/Leetcode/tree/master/0055-jump-game) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/arnavvvvv/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/arnavvvvv/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavvvvv/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/arnavvvvv/Leetcode/tree/master/0621-task-scheduler) |
