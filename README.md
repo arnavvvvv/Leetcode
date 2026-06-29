@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/arnavvvvv/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/arnavvvvv/Leetcode/tree/master/0767-reorganize-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arnavvvvv/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arnavvvvv/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arnavvvvv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/arnavvvvv/Leetcode/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/arnavvvvv/Leetcode/tree/master/1046-last-stone-weight) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arnavvvvv/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
 | ------- |
