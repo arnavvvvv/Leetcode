@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/arnavvvvv/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/arnavvvvv/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/arnavvvvv/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/arnavvvvv/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/arnavvvvv/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arnavvvvv/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arnavvvvv/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/arnavvvvv/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/arnavvvvv/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arnavvvvv/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/arnavvvvv/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavvvvv/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/arnavvvvv/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/arnavvvvv/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/arnavvvvv/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/arnavvvvv/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/arnavvvvv/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/arnavvvvv/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/arnavvvvv/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arnavvvvv/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arnavvvvv/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/arnavvvvv/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/arnavvvvv/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/arnavvvvv/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arnavvvvv/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Prefix Sum
 |  |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavvvvv/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arnavvvvv/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
