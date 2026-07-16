@@ -8,7 +8,7 @@ private:
             auto t = q.front();
             int i = t.first;
             int j = t.second;
-            cout<<i<<" "<<j<<endl;
+            // cout<<i<<" "<<j<<endl;
             q.pop();
             if(i > 0 && grid[i-1][j] == '1') {
                 q.push({i-1, j});
@@ -42,7 +42,7 @@ public:
         for(int i=0; i < m; ++i ) {
             for(int j = 0; j < n; ++j) {
                 if(grid[i][j] == '1') {
-                    cout<<"bfs"<<endl;
+                    // cout<<"bfs"<<endl;
                     bfs(grid, i, j);
                     ++count;
                 }
