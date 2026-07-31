@@ -9,7 +9,7 @@ class Solution {
         
         if(key != 0 && nums[idx] <= nums[key - 1]) {
             // cout<<"inside"<<key<<" "<<nums[idx]<<endl;
-            return dp(nums, key, idx + 1);
+            return m[key][idx] = dp(nums, key, idx + 1);
         }
             
         // cout<<key<<" "<<nums[idx]<<endl;
