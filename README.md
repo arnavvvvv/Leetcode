@@ -62,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/arnavvvvv/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/arnavvvvv/Leetcode/tree/master/0767-reorganize-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arnavvvvv/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arnavvvvv/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arnavvvvv/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arnavvvvv/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/arnavvvvv/Leetcode/tree/master/0143-reorder-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arnavvvvv/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/arnavvvvv/Leetcode/tree/master/0322-coin-change) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arnavvvvv/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
