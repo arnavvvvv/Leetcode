@@ -15,7 +15,7 @@ public:
         curmax = max(nums[i] * curmax, max(nums[i] * curmin, nums[i]));
         curmin = min(t, min(nums[i] * curmin, nums[i]));
         ans = max(ans, curmax);
-        cout<<curmax<<" "<<curmin<<" "<<ans<<endl;
+        // cout<<curmax<<" "<<curmin<<" "<<ans<<endl;
        }
        return ans;
 
