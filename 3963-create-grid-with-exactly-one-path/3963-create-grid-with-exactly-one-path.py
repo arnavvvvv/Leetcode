@@ -5,7 +5,6 @@ class Solution:
         for i in range(m):
             s = ""
             for j in range(n):
-                print(i, j)
                 if i == j:
                     s += "."
                     marker[0] = i
