@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/arnavvvvv/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/arnavvvvv/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arnavvvvv/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0152-maximum-product-subarray](https://github.com/arnavvvvv/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/arnavvvvv/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavvvvv/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/arnavvvvv/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/arnavvvvv/Leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arnavvvvv/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/arnavvvvv/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/arnavvvvv/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/arnavvvvv/Leetcode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/arnavvvvv/Leetcode/tree/master/0647-palindromic-substrings) |
